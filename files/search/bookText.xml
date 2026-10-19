@@ -1,0 +1,1251 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="23"><page Index="1"><![CDATA[PEMBAHASAN
+
+                                           TKA MATEMATIKA LANJUT
+
+
+               Soal Nomor 1
+              Diberikan segitiga pada setengah lingkaran seperti pada gambar berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Kedua sisi segitiga sama dengan jari-jari setengah lingkaran dan titik O merupakan titik pusat
+              lingkaran. Luas daerah segitiga dinyatakan dengan f (θ) dan luas daerah setengah lingkaran diny-
+              atakan dengan g(θ) dimana nilai 0 < θ < π.
+                                                       f (θ)
+              Suatu limit fungsi dipetakan sebagai lim     . Bagaimana nilai limit fungsi perbandingan luas
+                                                  θ→n g(θ)
+              tersebut?
+              Pilihlah semua jawaban benar! Jawaban benar lebih dari satu.
+                                                                                              √
+                      f (θ)   1                       f (θ)  2                        f (θ)    3
+              (A) lim      =                  (B) lim      =                  (C) lim      =
+                 θ→ g(θ)     2π                  θ→ g(θ)     π                   θ→ g(θ)      2π
+                                                    π
+                    π
+                                                                                    π
+                    6                               4                               3
+                                                              √
+                      f (θ)                           f (θ)     2
+              (D) lim      = π                (E) lim      =     π
+                 θ→ g(θ)                         θ→  2π g(θ)   3
+                    π
+                    2
+                                                    3
+               Pembahasan Nomor 1
+              Segitiga mempunyai dua sisi sepanjang r yang mengapit sudut θ, sehingga
+                                                           1 2
+                                                                                   2
+                                                                               1
+                                     f (θ) =  1  · r · r · sin θ = r sin θ,  g(θ) = πr .
+                                            2              2                   2
+                                                 f (θ)   1 2        sin θ
+                                                          r sin θ
+                                                         2
+                                                      =          =
+                                                 g(θ)     1  πr 2    π
+                                                          2
+                                                                 f (θ)   sin n
+              Karena fungsi ini kontinu pada 0 < θ < π, maka lim      =      .
+                                                             θ→n g(θ)     π
+              Opsi   Nilai limit yang benar  Nilai pada opsi  Keterangan
+              (A)        sin(π/6)  =  1            1           Benar ✓
+                            π      2π              2π
+                                   √
+                         sin(π/4)   2              2
+              (B)               =                              Salah ✗
+                            π      2π              π
+                                   √              √
+                         sin(π/3)   3               3
+              (C)               =                              Benar ✓
+                            π      2π              2π
+              (D)         sin(π/2)  =  1           π           Salah ✗
+                            π       π
+                                   √              √
+                         sin(2π/3)   3             2
+              (E)                =                  π          Salah ✗
+                            π       2π            3
+              ✔ Jawaban: (A) dan (C)]]></page><page Index="2"><![CDATA[Soal Nomor 2
+              Perhatikan matriks berikut!
+                                                           "     #
+                                                             2 0
+                                                       F =
+                                                             0  1
+                                                                2
+              Invers dari matriks F adalah .. .
+                 "     #                         "        #                      "     #
+                   1 0                            −1    0                          2 0
+              (A)                             (B)                             (C)
+                   0 2                             0   −2                          0 1
+                 "         #                     "     #
+                   − 1   0                         1  0
+              (D)    2                        (E)  2
+                    0   −2                        0 2
+
+
+               Pembahasan Nomor 2
+                         "     #                       "        #
+                          a b                      1     d   −b
+              Untuk A =         berlaku A −1  =                  .
+                           c d                  ad − bc −c    a
+                        1
+              det F = 2 · − 0 · 0 = 1, sehingga
+                        2
+                                                        "     #   "     #
+                                                       1  1  0      1  0
+                                                 −1
+                                                F   =     2     =   2
+                                                       1 0 2        0 2
+                            "          #    "    #
+                             2 ·  1  0       1 0
+              Cek: F · F −1  =  2        =         = I ✓
+                               0    1  · 2   0 1
+                                    2
+              ✔ Jawaban: (E)]]></page><page Index="3"><![CDATA[Soal Nomor 3
+              Pak Andi memiliki beberapa sapi dan kambing. Semua hewan ternaknya selalu diberikan pakan
+              berupa campuran rumput gajah dan rumput gamal. Setiap hari, ia selalu menyediakan 38 kg
+              rumput gajah dan 34 kg rumput gamal untuk seluruh kambing dan sapi miliknya tanpa sisa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Jika banyaknya sapi dan kambing yang dipelihara oleh Pak Andi berturut-turut adalah x dan y,
+                     !
+                     x
+              maka       = . . .
+                     y
+                           !     !        !                                 !     !      !
+                   −1    1     19       15                         −1     2     38       3
+              (A)                  =                          (D)                    =
+                   10   −5     34       20                          10  −10     34       4
+                            !     !      !                           1   1  !    !      !
+                   10   −10     38      4                          −           19       3
+              (B)                   =                         (E)    5   5         =
+                   −1    2      34      3                           2   −1     34       4
+                           !     !      !
+                   −  1  2     34       4
+              (C)    2   10        =
+                    1   −1     38       3
+
+
+               Pembahasan Nomor 3
+              Dari gambar: 1 sapi makan 10 kg rumput gajah dan 10 kg rumput gamal; 1 kambing makan 2 kg
+              rumput gajah dan 1 kg rumput gamal.
+
+                          (                                          (
+                            10x + 2y = 38 (rumput gajah)              5x + y = 19     (dibagi 2)
+                                                              =⇒
+                            10x + y = 34    (rumput gamal)            10x + y = 34
+
+                                     !   !         !
+                                5   1    x      19
+              Bentuk matriks:               =       , dengan determinan 5 · 1 − 1 · 10 = −5.
+                               10 1      y      34
+                          !                    !     !       1    1  !    !      −19+34  !    !
+                          x      1     1    −1     19      −           19                     3
+                              =                        =     5    5         =      5      =
+                          y      −5   −10    5     34       2    −1    34       38 − 34       4
+
+              Jadi Pak Andi memiliki 3 sapi dan 4 kambing. Cek: 10(3) + 2(4) = 38 ✓ dan 10(3) + 4 = 34 ✓.
+              Opsi lain tidak tepat: (A) hasilnya bukan (3, 4); (B) dan (C) hasil perkaliannya tidak sama dengan
+              ruas kanan dan urutan (4, 3) salah; (D) matriksnya kurang faktor  1  , sehingga hasil perkaliannya
+                                                                             10
+              (30, 40), bukan (3, 4).
+              ✔ Jawaban: (E)]]></page><page Index="4"><![CDATA[Soal Nomor 4
+              Sebuah pabrik minuman tradisional memproduksi tiga jenis minuman yaitu wedang jahe (WJ),
+              beras kencur (BK), dan kunir asem (KA).
+              Dalam proses produksinya, digunakan tiga bahan utama yaitu jahe (J) dalam gram, gula merah
+              (GM) dalam gram, dan air (A) dalam mililiter. Setiap botol minuman memerlukan bahan sebagai
+              berikut.
+                                                       J GM      A
+                                                                 
+                                                       20 15 50
+                                                                 
+                                                       10 25 40  
+                                                                 
+                                                       12   8   k
+              Pada suatu hari pabrik tersebut menerima pesanan sebagai berikut.
+
+                                                                
+                                                        WJ    100
+                                                                
+                                                        BK   120 
+                                                                
+                                                        KA    80
+
+              Jumlah bahan baku yang digunakan dalam proses pembuatan setiap minuman adalah:
+                                                                 
+                                                         J   4360
+                                                                 
+                                                      GM    14960 
+                                                                 
+                                                         A   13000
+              Banyak air yang dibutuhkan untuk memproduksi satu botol kunir asem adalah . . .
+              (A) 30 ml          (B) 35 ml          (C) 40 ml          (D) 45 ml           (E) 50 ml
+
+
+
+               Pembahasan Nomor 4
+              Baris matriks bahan = jenis minuman (WJ, BK, KA), kolom = bahan (J, GM, A). Kebutuhan air total
+              diperoleh dari kolom A dikalikan banyak pesanan:
+
+
+                                            50(100) + 40(120) + k(80) = 13 000
+                                            | {z }    | {z }   | {z }
+                                              WJ        BK       KA
+
+                                 5000 + 4800 + 80k = 13 000 =⇒ 80k = 3200 =⇒ k = 40
+              Jadi, satu botol kunir asem membutuhkan 40 ml air.
+              Catatan: Jika dihitung dengan data yang sama, total jahe = 20(100) + 10(120) + 12(80) = 4160
+              gram dan total gula merah = 15(100) + 25(120) + 8(80) = 5140 gram. Nilai ini tidak sama dengan
+              data pada soal (4360 dan 14960). Hal ini tidak memengaruhi jawaban karena yang ditanyakan
+              hanya kebutuhan air.
+
+              ✔ Jawaban: (C) 40 ml]]></page><page Index="5"><![CDATA[Soal Nomor 5
+              Seorang pemilik hotel mengelola 3 hotel yang berada pada kota yang berbeda. Hotel tersebut
+              memiliki konsep dan tipe kamar yang sama yaitu Standard Room, Deluxe Room, dan Suite Room,
+              dengan kapasitas dan harga per malam sebagai berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Pemilik hotel akan melakukan perhitungan pendapatan yang diperoleh dari ketiga hotel tersebut.
+              Bagaimana kondisi pendapatan ketiga hotel tersebut dalam 1 hari jika semua tipe kamar terisi
+              penuh?
+              Pilih pada semua jawaban benar! Jawaban benar lebih dari satu.
+              □ Pendapatan Hotel A dan Hotel C sama besar.
+              □ Pendapatan Hotel B lebih besar daripada Hotel A.
+              □ Pendapatan paling besar diperoleh dari Hotel C.
+              □ Masing-masing hotel memiliki selisih pendapatan yang sama besar.
+              □ Pendapatan yang diperoleh dari ketiga hotel tersebut lebih dari Rp20.000.000.
+
+
+               Pembahasan Nomor 5
+              Pendapatan = kapasitas × harga (dalam ribuan rupiah: Standard 150, Deluxe 500, Suite 1.000).
+
+                                                                                
+                                  9 6 3       150        1350 + 3000 + 3000       7350
+                                                                                
+                                 6 7 2     500    =    900 + 3500 + 2000    =   6400 
+                                                                                
+                                  7 5 4       1000       1050 + 2500 + 4000       7550
+
+              Jadi Hotel A = Rp7.350.000, Hotel B = Rp6.400.000, Hotel C = Rp7.550.000.
+
+              Pernyataan                                                                        Keterangan
+              A dan C sama besar (7.350.000 ̸= 7.550.000)                                       Salah ✗
+
+              B lebih besar dari A (6.400.000 < 7.350.000)                                      Salah ✗
+              Paling besar dari Hotel C                                                         Benar ✓
+              Selisih sama besar (C − A = 200 rb, A − B = 950 rb)                               Salah ✗
+              Total = 7.350.000 + 6.400.000 + 7.550.000 = 21.300.000 > 20.000.000               Benar ✓
+              Catatan: Pada soal tertulis “pIndah besar”, yang dimaksud adalah “paling besar”.
+
+              ✔ Jawaban: Pendapatan paling besar diperoleh dari Hotel C; dan total pendapatan lebih dari
+              Rp20.000.000.]]></page><page Index="6"><![CDATA[Soal Nomor 6
+                                                                                     2
+                                                                               3
+              Di manakah koordinat titik perpotongan grafik fungsi f(x) = x + 3x − 10x − 24 terhadap
+              sumbu X?
+              Pilih pada semua jawaban benar! Jawaban benar lebih dari satu.
+              □ (−2, 0)          □ (−1, 0)          □ (3, 0)           □ (4, 0)            □ (5, 0)
+
+
+
+               Pembahasan Nomor 6
+              Titik potong sumbu X terjadi saat f (x) = 0. Coba x = −2: f (−2) = −8 + 12 + 20 − 24 = 0 ✓, jadi
+              (x + 2) faktor. Dengan pembagian Horner:
+
+                                                 −2 1      3 −10 −24
+                                                         −2    −2     24
+                                                      1    1 −12       0
+
+
+                                                   2
+                                   f (x) = (x + 2)(x + x − 12) = (x + 2)(x − 3)(x + 4)
+              Akar-akarnya x = −2, x = 3, x = −4. Titik potongnya (−2, 0), (3, 0), dan (−4, 0).
+              Cek opsi lain: f (−1) = −12 ̸= 0, f (4) = 48 ̸= 0, f (5) = 126 ̸= 0. Titik (−4, 0) juga titik potong,
+              tetapi tidak ada di pilihan.
+              ✔ Jawaban: (−2, 0) dan (3, 0)
+
+
+               Soal Nomor 7
+                                               4
+                                                                                            2
+                                                           2
+                                                     3
+              Diketahui suku banyak f (x) = x + ax + bx + x − 6. Apabila dibagi oleh x + x + 1 meng-
+              hasilkan sisa 5x − 1. Nilai dari a + b = . . .
+              (A) 11             (B) 5              (C) −1             (D) −5              (E) −7
+
+               Pembahasan Nomor 7
+                                                  3
+                                                        2
+                                                                       2
+                                             4
+              Lakukan pembagian bersusun x + ax + bx + x − 6 oleh x + x + 1:
+                                                  4
+                                                        3
+                                                              2
+                                                 x + ax + bx + x − 6
+                                                                3
+                                                                     2
+                                                           4
+                                                       − (x + x + x ) ← x    2
+                                                   3
+                                                              2
+                                           (a − 1)x + (b − 1)x + x − 6
+                                               3
+                                                          2
+                                    − (a − 1)x + (a − 1)x + (a − 1)x     ← (a − 1)x
+                                                       2
+                                                (b − a)x + (2 − a)x − 6
+                                                 2
+                                      − (b − a)x + (b − a)x + (b − a)    ← (b − a)
+                                                (2 − b)x + (a − b − 6) (sisa)
+              Samakan dengan sisa 5x − 1:
+                         2 − b = 5 ⇒ b = −3,        a − b − 6 = −1 ⇒ a + 3 − 6 = −1 ⇒ a = 2
+                                                 a + b = 2 + (−3) = −1
+
+              ✔ Jawaban: (C) −1]]></page><page Index="7"><![CDATA[Soal Nomor 8
+              Sebuah drum bahan bakar logam mengalami penambahan kapasitas volume saat terkena panas,
+              yang dapat dinyatakan dalam fungsi berikut.
+
+                                                                   2
+                                                            3
+                                              V(T) = 0,05T + 0,4T + 20T
+              dengan T adalah suhu dalam derajat Celsius dan V(T) adalah penambahan volume dalam liter.
+              Apabila terdapat 10 drum dengan jenis dan ukuran yang sama, total penambahan volume dari
+              drum-drum tersebut ketika terkena panas dengan suhu yang sama dapat dinyatakan dengan . . .
+                                                     3
+                                                                                          2
+                            2
+                     3
+                                                                                    3
+                                                           2
+              (A) 50T + 40T + 200T            (B) 50T + 4T + 200T             (C) 5T + 4T + 200T
+                            2
+                                                             2
+                                                     3
+                     3
+              (D) 0,5T + 4T + 200T            (E) 0,5T + 0,4T + 200T
+               Pembahasan Nomor 8
+              Total penambahan volume 10 drum adalah 10 · V(T):
+                                               3
+                                                                               3
+                                                           2
+                                                                                     2
+                           10 · V(T) = 10(0,05T ) + 10(0,4T ) + 10(20T) = 0,5T + 4T + 200T
+              ✔ Jawaban: (D)
+               Soal Nomor 9
+              Sebuah perusahaan menawarkan saham kepada pembeli. Perusahaan menyiapkan modal saham
+                                                                           3
+                                                                                   2
+              yang akan dijual dan dapat dinyatakan sebagai fungsi f(x) = x − 70x − 600x + 74.000 dengan
+              nilai f (x) dalam jutaan rupiah dan x menyatakan banyak saham dalam satuan unit saham.
+              Apabila modal saham yang dimiliki perusahaan tersebut adalah 2 miliar atau 2.000 juta, tentukan
+              Mungkin atau Tidak Mungkin perusahaan dapat menjual sejumlah unit saham berikut!
+
+                                               Pernyataan   Benar    Salah
+                                               30 unit        □        □
+                                               40 unit        □        □
+                                               60 unit        □        □]]></page><page Index="8"><![CDATA[Pembahasan Nomor 9
+              Banyak saham yang mungkin dijual adalah nilai x yang memenuhi f (x) = 2000:
+
+                                   2
+                                                                  3
+                            3
+                                                                         2
+                           x − 70x − 600x + 74 000 = 2000 =⇒ x − 70x − 600x + 72 000 = 0
+              Substitusi setiap pilihan ke f (x):
+                                 f (30) = 27 000 − 63 000 − 18 000 + 74 000 = 20 000 ̸= 2000
+                                 f (40) = 64 000 − 112 000 − 24 000 + 74 000 = 2000
+                                 f (60) = 216 000 − 252 000 − 36 000 + 74 000 = 2000
+
+                           3
+                                  2
+              Faktorisasi: x − 70x − 600x + 72 000 = (x − 40)(x − 60)(x + 30). Akar x = −30 tidak mungkin
+              karena banyak saham tidak negatif.
+
+                                      Pilihan   f (x) (juta)  Kesimpulan
+
+                                      30 unit    20.000     Tidak Mungkin (Salah)
+                                      40 unit     2.000     Mungkin (Benar)
+                                      60 unit     2.000     Mungkin (Benar)
+
+
+              Catatan: Kolom tabel pada soal bertuliskan Benar/Salah; Benar = Mungkin, Salah = Tidak
+              Mungkin.
+              ✔ Jawaban: 30 unit Tidak Mungkin; 40 unit Mungkin; 60 unit Mungkin
+
+
+
+               Soal Nomor 10
+              Populasi kelinci di suatu pulau dimodelkan dengan fungsi eksponensial, yaitu:
+
+                                                                  t
+                                                      K(t) = 4 · 2 4
+              dengan t menyatakan waktu dalam satuan tahun dan K(t) menyatakan populasi dalam ribu ekor.
+              Bagaimana interpretasi yang tepat mengenai model eksponensial populasi kelinci tersebut?
+
+                                               Pernyataan                                 Benar   Salah
+                 Setiap 4 tahun populasi bertambah menjadi 4 kalinya.                       □       □
+                 Pada saat awal populasi kelinci berjumlah 4 ribu ekor.                     □       □
+                 Populasi mencapai 1 juta sebelum 20 tahun dari awal pengamatan.            □       □
+
+
+
+               Pembahasan Nomor 10
+                                             t+4       t
+                                                           1
+              Pernyataan 1. K(t + 4) = 4 · 2 4 = 4 · 2 4 · 2 = 2 · K(t). Setiap 4 tahun populasi menjadi 2
+              kalinya, bukan 4 kalinya.                                                             Salah ✗
+                                       0
+              Pernyataan 2. K(0) = 4 · 2 = 4 ribu ekor.                                            Benar ✓
+                                                                                   5
+              Pernyataan 3. 1 juta ekor = 1000 ribu ekor. Pada t = 20: K(20) = 4 · 2 = 128 ribu ekor < 1000
+              ribu ekor. Karena K(t) fungsi naik, populasi belum mencapai 1 juta sebelum 20 tahun. (Populasi
+              mencapai 1 juta saat 2 t/4  = 250, yaitu t = 4 log 250 ≈ 31,9 tahun.)                 Salah ✗
+                                                          2
+              ✔ Jawaban: Salah – Benar – Salah]]></page><page Index="9"><![CDATA[Soal Nomor 11
+              Seorang peneliti lingkungan melakukan pengamatan terhadap pertumbuhan tanaman eceng gon-
+              dok di beberapa danau sekitar wilayah X. Pengamatan dilakukan selama 3 tahun dan hasil me-
+              nunjukkan bahwa pertumbuhan eceng gondok dapat dimodelkan dengan fungsi berikut:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Setelah 3 tahun pengamatan, peneliti mencatat luas area yang tertutupi tanaman eceng gondok
+              pada beberapa wilayah perairan. Berikut data yang diperoleh:
+                                                                                                2
+                       Wilayah Perairan    Luas Area yang Tertutupi Tanaman Eceng Gondok (m )
+                           Danau A                                 15.000
+                            Danau B                                16.500
+                            Danau C                                17.000
+                           Danau D                                 17.500
+
+                            Danau E                                18.000
+              Berdasarkan data tersebut, wilayah perairan manakah dengan luas area yang tertutupi tanaman
+                                          2
+              eceng gondok lebih dari 49 m pada awal pengamatan? Pilih semua jawaban yang benar!
+              □ Danau A                       □ Danau C                       □ Danau E
+              □ Danau B                       □ Danau D]]></page><page Index="10"><![CDATA[Pembahasan Nomor 11
+              Dari grafik: L(0) = 10, L(1) = 70, L(2) = 490. Rasio tiap tahun:  70  =  490  = 7. Jadi pertumbuhan-
+                                                                            10   70
+              nya eksponensial dengan faktor 7 per tahun:
+
+                                                                                        L(3)
+                                                               3
+                             L(t) = L 0 · 7 t  =⇒  L(3) = L 0 · 7 = 343 L 0  =⇒   L 0 =
+                                                                                        343
+                                                              2
+              Syarat L 0 > 49 berarti L(3) > 49 × 343 = 16.807 m .
+
+                                                                             L(3)
+                              Danau    Luas setelah 3 tahun  Luas awal L 0 =       L 0 > 49?
+                                                                             343
+                              A               15.000               ≈ 43,73         Salah ✗
+                              B               16.500               ≈ 48,10         Salah ✗
+                              C               17.000               ≈ 49,56         Benar ✓
+
+                              D               17.500               ≈ 51,02         Benar ✓
+                              E               18.000               ≈ 52,48         Benar ✓
+
+
+              ✔ Jawaban: Danau C, Danau D, dan Danau E
+
+
+               Soal Nomor 12
+              Grafik berikut menyatakan perubahan kedalaman air laut di sebuah teluk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Pada grafik tersebut, y menyatakan kedalaman air laut dalam meter, t dalam jam, serta a dan b
+              adalah konstanta. Berkenaan dengan nilai t pada grafik, nilai t = 6 menyatakan 6 jam setelah
+              pukul 00.00, demikian pula untuk nilai t lainnya.
+              Waktu saat kedalaman air laut mencapai 12,3 meter untuk ketiga kalinya setelah pukul 00.00
+              adalah ...
+              (A) 3 jam          (B) 9 jam          (C) 10 jam         (D) 12 jam          (E) 15 jam]]></page><page Index="11"><![CDATA[Pembahasan Nomor 12
+              Dari grafik: saat t = 0, y = 14,3 (maksimum) dan saat t = 6, y = 10,3 (minimum).
+
+                                 t = 0 :  a + b cos 0 = a + b = 14,3
+                                                                   =⇒ a = 12,3, b = 2
+                                 t = 6 :  a + b cos π = a − b = 10,3
+
+
+              Jadi y = 12,3 + 2 cos  1 πt . Kedalaman 12,3 m:
+                                   6
+
+
+                     12,3 + 2 cos  1 πt = 12,3 =⇒ cos  1 πt = 0 =⇒    1 πt =  π  + kπ =⇒ t = 3 + 6k
+                                 6                     6              6      2
+              Untuk k = 0, 1, 2 diperoleh t = 3, 9, 15. Jadi kali ketiga terjadi pada t = 15, yaitu 15 jam setelah
+              pukul 00.00 (pukul 15.00).
+
+              ✔ Jawaban: (E) 15 jam
+
+
+               Soal Nomor 13
+              Diketahui vektor
+                                                                 
+                                                              2m
+                                                     ⃗
+                                                     AB =   m + 3 
+                                                                  
+                                                           
+                                                                 
+                                                               m
+
+                                                                                               ⃗
+                                  ⃗
+              Jika panjang vektor  AB  = 9 satuan panjang, maka nilai m yang memenuhi vektor AB adalah ...
+
+
+              (A) −4 atau −3     (B) −4 atau 3      (C) −3 atau 4      (D) 3 atau 4        (E) 4 atau 3
+               Pembahasan Nomor 13
+                                                 2
+                                                                   2
+                                            ⃗
+                                                                        2
+                                                        2
+                                            AB  = (2m) + (m + 3) + m = 81
+
+
+                                                                                    2
+                               2
+                          2
+                                                             2
+                                              2
+                       4m + m + 6m + 9 + m = 81 =⇒ 6m + 6m − 72 = 0 =⇒ m + m − 12 = 0
+                                      (m + 4)(m − 3) = 0 =⇒ m = −4 atau m = 3
+              ✔ Jawaban: (B) −4 atau 3
+               Soal Nomor 14
+              Diketahui trapesium sama kaki ABCD dengan AD = BC dan titik A(0, 0). Vektor-vektor posisi
+                                                   !           !               !
+                                                   1           6              a
+                                                                       ⃗
+                                                        ⃗
+                                           ⃗
+                                                                                              2
+              pembentuk trapesium adalah AD =         , AB =      dan BC =       . Nilai dari a + 2b = . . .
+                                                   4           0              b
+              (A) 5              (B) 7              (C) 9              (D) 10              (E) 13]]></page><page Index="12"><![CDATA[Pembahasan Nomor 14
+              Karena A(0, 0): D(1, 4) dan B(6, 0). Pada trapesium ABCD, AB ∥ DC, sehingga C sejajar tinggi
+              dengan D, yaitu y C = 4.
+              Trapesium sama kaki simetris terhadap garis tengah x =   0+6  = 3. Bayangan D(1, 4) terhadap
+                                                                        2
+              x = 3 adalah C(5, 4).
+
+                                                       !         !
+                                                  5 − 6       −1
+                                  ⃗
+                                  BC = C − B =           =          =⇒ a = −1, b = 4
+                                                  4 − 0       4
+                           √          √               √          √
+              Cek: |AD| =    1 + 16 =  17 dan |BC| =    1 + 16 =   17 ✓
+
+                                            2
+                                                          2
+                                           a + 2b = (−1) + 2(4) = 1 + 8 = 9
+              ✔ Jawaban: (C) 9
+
+
+               Soal Nomor 15
+              Sebuah kereta api sedang melaju dengan kecepatan konstan pada sebuah lintasan lurus dari sta-
+              siun A sampai stasiun E. Diketahui koordinat stasiun A dan E dalam km berturut-turut adalah (2,
+              3, 5) dan (11, 6, 8).
+              Perhatikan gambar berikut yang menggambarkan waktu tempuh dalam menit kereta tersebut an-
+              tar stasiun.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Manakah pasangan stasiun yang jaraknya kurang dari 3,5 km?
+              Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.
+              □ AB               □ BC               □ CD               □ DE                □ CE]]></page><page Index="13"><![CDATA[Pembahasan Nomor 15
+                                         
+                               11 − 2       9
+                                                            √              √       √
+                        ⃗
+                                                      ⃗
+                             
+                                           
+                                     
+                       AE =    6 − 3    =     ,  |AE| =   81 + 9 + 9 =   99 = 3 11 ≈ 9,95 km
+                                            3
+                                         
+                                8 − 5       3
+              Total waktu A → E = 5 + 3 + 2 + 3 = 13 menit. Karena kecepatan konstan, jarak sebanding
+              dengan waktu:
+                                                     t    √
+                                            jarak =    ×   99 ≈ t × 0,765 km
+                                                    13
+                                   Pasangan        Waktu        Jarak (km)  < 3,5 km?
+                                      AB          5 menit         ≈ 3,83      Salah ✗
+                                      BC          3 menit         ≈ 2,30     Benar ✓
+                                      CD          2 menit         ≈ 1,53     Benar ✓
+                                      DE          3 menit         ≈ 2,30     Benar ✓
+                                      CE      2 + 3 = 5 menit     ≈ 3,83      Salah ✗
+
+
+              ✔ Jawaban: BC, CD, dan DE
+
+
+               Soal Nomor 16
+              Perhatikan gambar lingkaran berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Diameter lingkaran pada gambar adalah 4 satuan. Persamaan lingkaran yang sepusat dengan
+              lingkaran pada gambar tersebut adalah . . .
+                  2
+                            2
+              (A) x + 6x + y − 8y + 16 = 0
+                            2
+                  2
+              (B) x − 6x + y − 8y + 21 = 0
+                  2
+                            2
+              (C) x + 6x + y + 8y + 16 = 0
+                            2
+                  2
+              (D) x − 8x + y − 6y + 16 = 0
+                  2
+                            2
+              (E) x + 8x + y − 6y + 21 = 0]]></page><page Index="14"><![CDATA[Pembahasan Nomor 16
+              Dari gambar, pusat lingkaran P(−3, 4) dan jari-jari r =  4  = 2.
+                                                                   2
+              Lingkaran sepusat berarti pusatnya sama, yaitu (−3, 4), sehingga bentuknya
+
+                                                    2
+                                               2
+                                                                                       2
+                                    2
+                                                                       2
+                                                             2
+                              (x + 3) + (y − 4) = R ⇐⇒ x + 6x + y − 8y + 25 − R = 0
+                               A
+                                              2
+                                                  2
+              Pusat tiap opsi − , − B     untuk x + y + Ax + By + C = 0: (A) (−3, 4) ✓; (B) (3, 4); (C) (−3, −4);
+                               2    2
+              (D) (4, 3); (E) (−4, 3).
+                                        2
+                              2
+              Opsi (A): (x + 3) + (y − 4) = 9 + 16 − 16 = 9, yaitu lingkaran berpusat (−3, 4) dengan jari-jari
+              3, sepusat dengan lingkaran pada gambar.
+                              2
+                                        2
+              ✔ Jawaban: (A) x + 6x + y − 8y + 16 = 0
+               Soal Nomor 17
+              Perhatikan gambar berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Tentukan semua koordinat titik singgung lingkaran dari garis-garis singgung lingkaran yang
+              tegak lurus terhadap garis f.
+              Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.
+              □ (3, 1)           □ (1, −5)          □ (−1, 5)          □ (3, −1)           □ (−3, −1)]]></page><page Index="15"><![CDATA[Pembahasan Nomor 17
+                                                                   2
+                                                                                          2
+                                                                              2
+              Lingkaran: pusat A(2, −3) melalui B(3, −1), sehingga r = (3 − 2) + (−1 + 3) = 5.
+                                                        2
+                                                                   2
+                                                 (x − 2) + (y + 3) = 5
+                                                          2−0
+              Garis f melalui C(−1, 0) dan D(0, 2): m =  0−(−1)  = 2.
+                                                    f
+                                                            1
+              Garis singgung tegak lurus f bergradien m = − . Rumus garis singgung bergradien m:
+                                                            2
+                                                         √  q
+                                               1
+                                                                         1
+                                     y + 3 = − (x − 2) ±   5  1 +  1  = − (x − 2) ±  5
+                                               2                  4      2         2
+                                       =⇒ x + 2y − 1 = 0 atau      x + 2y + 9 = 0
+              Titik singgung terletak pada garis yang melalui pusat dan tegak lurus garis singgung (sejajar f,
+                                          √
+              arah (1, 2)). Karena |(1, 2)| =  5 = r:
+                              T = A ± (1, 2) = (2, −3) ± (1, 2) =⇒ T 1 (3, −1) dan T 2 (1, −5)
+
+              Cek: (3, −1) pada x + 2y − 1 = 0: 3 − 2 − 1 = 0 ✓; (1, −5) pada x + 2y + 9 = 0: 1 − 10 + 9 = 0 ✓
+              ✔ Jawaban: (1, −5) dan (3, −1)
+
+
+               Soal Nomor 18
+
+              Suatu rumah makan terdapat gambar rambu lalu lintas. Gambarnya seperti gambar rambu lalu
+              lintas balai pertolongan pertama namun tidak sama persis.
+              Biasanya rambu lalu lintas itu berfungsi untuk memberikan informasi mengenai lokasi pelayanan
+              kesehatan terdekat seperti balai kesehatan, puskesmas, atau tempat pertolongan pertama jika ter-
+              jadi keadaan darurat atau kecelakaan.
+              Rumah makan ini mempunyai tanda rambu lalu lintas tersebut tujuannya jika perut pelanggan
+              sedang kelaparan segera merapat ke rumah makan tersebut supaya mendapatkan pertolongan
+              pertama.
+              Berikut gambar rambu lalu lintas balai pertolongan pertama di rumah makan tersebut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Jika pemilik rumah makan ingin membuat rambu tersebut dalam jumlah banyak untuk cabang
+              yang baru dan cat yang dibeli dalam ukuran yang sama.
+              Cat warna apakah yang lebih banyak digunakan dibanding cat warna hitam?
+              Klik pada semua jawaban benar! Jawaban benar lebih dari satu.
+              □ Setengah hitam dan biru.                      □ Biru dan putih.
+              □ Setengah hitam dan merah.                     □ Biru dan merah.
+              □ Setengah hitam dan putih.]]></page><page Index="16"><![CDATA[Pembahasan Nomor 18
+              Gunakan π = 3,14. Dari gambar: persegi 40 × 40, lingkaran luar R = 20 cm, lingkaran dalam
+              r = 14 cm. Lengan salib dari pusat ke tepi = 14 cm, bagian di luar lengan tegak = 10 cm, sehingga
+              setengah lebar lengan = 4 cm (lebar lengan 8 cm, panjang 28 cm; ujung lengan dianggap lurus).
+
+                                                        2
+                                               2
+                                      Biru = 40 − π(20) = 1600 − 1256 = 344 cm   2
+                                                  2
+                                                       2
+                                    Hitam = π(20 − 14 ) = 3,14 × 204 = 640,56 cm  2
+                                   Merah = 2(28 × 8) − 8 × 8 = 448 − 64 = 384 cm  2
+                                                  2
+                                     Putih = π(14) − 384 = 615,44 − 384 = 231,44 cm  2
+
+                                                                   2
+                          Kombinasi                        Luas (cm )         > 640,56 (hitam)?
+                          Setengah hitam + biru      320,28 + 344 = 664,28         Benar ✓
+                          Setengah hitam + merah     320,28 + 384 = 704,28         Benar ✓
+                          Setengah hitam + putih    320,28 + 231,44 = 551,72       Salah ✗
+                          Biru + putih               344 + 231,44 = 575,44         Salah ✗
+
+                          Biru + merah                  344 + 384 = 728            Benar ✓
+
+
+              ✔ Jawaban: Setengah hitam dan biru; setengah hitam dan merah; biru dan merah.]]></page><page Index="17"><![CDATA[Soal Nomor 19
+              Pak Baskara akan membuat daun pintu dengan ornamen kaca patri berbentuk bulat di tengahnya.
+              Berikut ini adalah detail dari daun pintu yang akan dibuat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Kerangka ornamen terbuat dari logam. Berfungsi untuk menempelkan potongan-potongan kaca
+              patri. Pak Baskara sedang memilih logam yang dapat digunakan untuk membuat kerangka orna-
+              men kaca patri. Beliau ingin memilih yang pas. Maksud pas di sini adalah: cukup untuk membuat
+              kerangka dan sisanya tidak lebih dari 1 m.
+              Berikut ini adalah jenis logam dan panjangnya yang dapat dipilih Pak Baskara untuk membuat
+              kerangka ornamen.
+
+                                     Jenis Logam     Logam A     Logam B    Logam C
+                                    Panjang Satuan      4 m         5 m       6,5 m
+
+              Tentukan apakah pilihan logam yang akan dibeli Pak Baskara berikut ini Pas atau Tidak Pas! Klik
+                                        √
+              pada kolom yang sesuai!     2 ≈ 1,4
+
+                                                Pilihan            Pas  Tidak Pas
+                                       Membeli 2 Buah Logam A
+                                       Membeli 1 Buah Logam B
+                                       Membeli 1 Buah Logam C]]></page><page Index="18"><![CDATA[Pembahasan Nomor 19
+                                                                                                        2
+                                                                                                   1
+              Jari-jari. Persegi di dalam lingkaran berjari-jari r memiliki diagonal 2r, sehingga luasnya (2r) =
+                                                                                                   2
+                2
+              2r . Empat kaca merah adalah sisa lingkaran di luar persegi:
+                                                                          1824
+                           2
+                     2
+                                                                      2
+                                                       2
+                   πr − 2r = 4 × 456 =⇒ (3,14 − 2)r = 1824 =⇒ r =              = 1600 =⇒ r = 40 cm
+                                                                          1,14
+              Panjang kerangka.
+                                 Keliling lingkaran = 2πr = 2(3,14)(40) = 251,2 cm
+                                                           √
+                                    Keliling persegi = 4 × r 2 = 4 × 40 × 1,4 = 224 cm
+                            Garis mendatar + tegak = 2 × 2r = 2 × 80 = 160 cm
+                                              Total = 251,2 + 224 + 160 = 635,2 cm = 6,352 m
+
+
+                               Pilihan            Panjang         Sisa        Kesimpulan
+
+                               2 buah Logam A       8 m     1,648 m (> 1 m)   Tidak Pas
+                               1 buah Logam B       5 m     kurang 1,352 m    Tidak Pas
+                               1 buah Logam C      6,5 m    0,148 m (≤ 1 m)   Pas
+
+
+              ✔ Jawaban: 2 Logam A: Tidak Pas; 1 Logam B: Tidak Pas; 1 Logam C: Pas
+
+
+               Soal Nomor 20
+              Apabila garis ax + y − 9 = 0 dan x + by + 6 = 0 dicerminkan terhadap garis y = x kemudian
+                                        !
+                                      1
+              dilanjutkan translasi T     menghasilkan bayangan dengan persamaan berturut-turut x + 2y −
+                                     −1
+              8 = 0 dan 2x − y − 9 = 0. Nilai dari 2a − b = . . .
+              (A) −6             (B) −2             (C) 0              (D) 2               (E) 6
+
+
+               Pembahasan Nomor 20
+
+                                                                                   !
+                                                                                 1
+              Pencerminan terhadap y = x: (x, y) 7→ (y, x). Dilanjutkan translasi    :
+                                                                                −1
+                                                                     ′
+                                   ′
+                                                                                  ′
+                                                ′
+                                  x = y + 1,   y = x − 1 =⇒ x = y + 1,      y = x − 1
+                                   ′
+                                                            ′
+                                                      ′
+                         ′
+              Garis 1: a(y + 1) + (x − 1) − 9 = 0 ⇒ x + ay + (a − 10) = 0.
+              Dibandingkan dengan x + 2y − 8 = 0: a = 2 (cek: a − 10 = −8 ✓).
+                                   ′
+                        ′
+                                                       ′
+                                                            ′
+              Garis 2: (y + 1) + b(x − 1) + 6 = 0 ⇒ bx + y + (7 − b) = 0.
+              Dibandingkan dengan 2x − y − 9 = 0 ⇔ −2x + y + 9 = 0: b = −2 (cek: 7 − b = 9 ✓).
+                                                2a − b = 2(2) − (−2) = 6
+              ✔ Jawaban: (E) 6]]></page><page Index="19"><![CDATA[Soal Nomor 21
+                                                                                ′
+              Lingkaran L memiliki pusat di (−5, 3) dan jari-jari 2. Lingkaran L adalah bayangan L setelah
+                                               ′′
+                                                                          2
+                                                                                    2
+              dilakukan translasi T. Lingkaran L dengan persamaan (x + 4) + (y − 4) = 16 adalah bayangan
+                   ′
+              dari L setelah dilakukan dilatasi dengan pusat O(0, 0) dengan faktor skala tertentu. Pernyataan
+              yang benar mengenai translasi T dengan faktor skala dilatasi yang dilakukan adalah . ..
+                            !                               !                               !
+                          3                               3                               3
+              (A) T =         dan skala di-   (B) T =         dan skala di-   (C) T =         dan skala di-
+                         −1                              −1                              −1
+              latasi 8                        latasi 4                        latasi 2
+                        !                               !
+                       1                               1
+              (D) T =      dan skala dilatasi  (E) T =     dan skala dilatasi
+                       1                               1
+              2                               8
+
+               Pembahasan Nomor 21
+               ′′
+                                  2
+                        2
+              L : (x + 4) + (y − 4) = 16 berpusat (−4, 4) dan berjari-jari 4.
+                                                                  ′
+              Faktor skala. Translasi tidak mengubah jari-jari, jadi L berjari-jari 2. Dilatasi: |k| · 2 = 4 ⇒ k = 2
+              (sesuai pilihan).
+                                         ′
+                                                        ′
+                     ′
+              Pusat L . Dilatasi [O, 2]: 2 · P = (−4, 4) ⇒ P = (−2, 2).
+                                                  !        !
+                                       −2 − (−5)         3
+                              ′
+              Translasi. T = P − P =                =
+                                          2 − 3         −1
+                                      !
+                                    3
+              ✔ Jawaban: (C) T =         dan skala dilatasi 2
+                                   −1
+               Soal Nomor 22
+                                                                                ◦
+              Garis l merupakan bayangan garis 3x + 2y = 6 dirotasikan sejauh 90 berlawanan arah jarum jam
+              dengan pusat rotasi (2, 0).
+              Manakah koordinat titik yang terletak pada garis l?
+              Pilihlah semua jawaban benar! Jawaban benar lebih dari satu.
+              □ (−3, −2)         □ (−2, −1)         □ (1, 2)           □ (2, 0)            □ (5, 2)]]></page><page Index="20"><![CDATA[Pembahasan Nomor 22
+                      ◦
+              Rotasi 90 berlawanan arah jarum jam dengan pusat (p, q) = (2, 0):
+                                       !           !        !
+                                  ′
+                                 x − 2       0 −1      x − 2         ′           ′
+                                         =                     =⇒ x = 2 − y, y = x − 2
+                                  ′
+                                 y − 0       1   0       y
+                                                ′
+                             ′
+              Sehingga x = y + 2 dan y = 2 − x . Substitusi ke 3x + 2y = 6:
+                             ′
+                                            ′
+                                                                 ′
+                                                            ′
+                          3(y + 2) + 2(2 − x ) = 6 =⇒ −2x + 3y + 4 = 0 =⇒ l : 2x − 3y = 4
+                                              Titik      2x − 3y      Pada l?
+                                            (−3, −2)   −6 + 6 = 0     Salah ✗
+
+                                            (−2, −1)   −4 + 3 = −1    Salah ✗
+                                             (1, 2)    2 − 6 = −4     Salah ✗
+                                             (2, 0)         4         Benar ✓
+                                             (5, 2)     10 − 6 = 4    Benar ✓
+
+
+              ✔ Jawaban: (2, 0) dan (5, 2)
+
+
+               Soal Nomor 23
+                                  2
+                             3
+                           x − 3x + 2x + 1
+              Nilai dari lim                 = . . .
+                       x→3    5 + 3x − 9x 2
+                    7                  6                6                   7                  7
+              (A) −              (B) −              (C)                (D)                 (E)
+                   67                 67                76                 67                 76
+               Pembahasan Nomor 23
+              Substitusi langsung x = 3 (penyebut tidak nol):
+
+                           Pembilang = 27 − 27 + 6 + 1 = 7,      Penyebut = 5 + 9 − 81 = −67
+
+                                                     2
+                                                3
+                                              x − 3x + 2x + 1       7        7
+                                           lim                  =      = −
+                                          x→3    5 + 3x − 9x 2     −67      67
+                                7
+              ✔ Jawaban: (A) −
+                               67
+
+
+               Soal Nomor 24
+              Roni, penjual nasi goreng, menjual dagangannya sebanyak P porsi dan akan memperoleh keun-
+              tungan (dalam jutaan rupiah) yang dapat dinyatakan dengan fungsi
+                                                            2
+                                                          9p + 2p + 10
+                                                  K(p) =
+                                                             2
+                                                          3p + 3p + 2
+              Keuntungan yang akan diperoleh Roni, apabila dia menjual nasi goreng dengan porsi sangat
+              banyak adalah ...
+              (A) Rp2.000.000,00              (B) Rp3.000.000,00              (C) Rp5.000.000,00
+              (D) Rp9.000.000,00              (E) Rp10.000.000,00]]></page><page Index="21"><![CDATA[Pembahasan Nomor 24
+                                                                                       2
+              Porsi sangat banyak berarti p → ∞. Bagi pembilang dan penyebut dengan p :
+                                             2
+                                           9p + 2p + 10         9 +  2 p  +  10 2  9
+                                                                        p
+                                       lim               = lim             =   = 3
+                                              2
+                                      p→∞ 3p + 3p + 2      p→∞ 3 +  3  +  2  3
+                                                                    p   p  2
+              Karena satuannya juta rupiah, keuntungannya Rp3.000.000,00.
+              ✔ Jawaban: (B) Rp3.000.000,00
+
+
+
+               Soal Nomor 25
+                         1 − cos(6x − 18)
+              Nilai lim                    = . . .
+                   x→3 x −  9  sin(6x − 18)
+                            x
+                   3                  2                                    2                  3
+              (A) −              (B) −              (C) 0              (D)                 (E)
+                   2                  3                                    3                  2
+
+               Pembahasan Nomor 25
+                                                          2
+                                        2
+              Gunakan 1 − cos 2A = 2 sin A dan x −  9  =  x −9  =  (x−3)(x+3) :
+                                                    x     x         x
+                                         2
+                                     2 sin (3x − 9)                x    2 sin(3x − 9) sin(3x − 9)
+                          lim                             = lim       ·
+                          x→3 (x − 3)(x + 3)                 x→3 x + 3    (x − 3) sin(6x − 18)
+                                            · sin(6x − 18)
+                                    x
+                                                   sin au   a
+              Misalkan u = x − 3 → 0, gunakan lim        = :
+                                               u→0   bu     b
+                                       3      2 sin 3u · sin 3u  1 2 · 3 · 3  1     3
+                                    =    · lim               =   ·        =   · 3 =
+                                       6  u→0    u · sin 6u    2     6      2       2
+
+
+                             3
+              ✔ Jawaban: (E)
+                             2]]></page><page Index="22"><![CDATA[Soal Nomor 26
+              Sebuah setengah lingkaran dengan diameter AB terletak pada segitiga sama kaki ABC dan memi-
+              liki panjang 2π, sehingga membentuk daerah berbentuk kerucut es krim seperti pada gambar
+              berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Jika luas segitiga ABC dinyatakan dengan X dan luas setengah lingkaran dinyatakan dengan Y,
+                                                                         X
+              berikut ini manakah pernyataan yang benar tentang nilai lim  ?
+                                                                     θ→a Y
+              Pilihlah semua jawaban yang benar! Jawaban benar lebih dari satu.
+              □ Besar jari-jari mempengaruhi nilai limit.
+              □ Besar sudut tidak mempengaruhi nilai limit.
+                      X
+              □ Nilai   selalu sama untuk berapapun θ.
+                      Y
+                    X     2
+              □ lim    =
+                θ→ Y      π
+                   π
+                   6
+                                 X
+              □ Jika θ = π maka    = 0
+                                 Y]]></page><page Index="23"><![CDATA[Pembahasan Nomor 26
+                                                                                               2
+                                                                                           1
+              Panjang busur setengah lingkaran πr = 2π ⇒ r = 2, sehingga AB = 4 dan Y = πr = 2π.
+                                                                                           2
+              Segitiga ABC sama kaki dengan sudut puncak θ dan alas AB = 2r. Tinggi dari C ke AB adalah
+                                       r
+                                   θ
+              t = r cot  θ  (karena tan = ).
+                      2            2    t
+                                                                            2
+                                                                      X    r cot  θ  2 cot  θ
+                                                  2
+                                             θ
+                             X =  1  · 2r · r cot = r cot  θ  =⇒        =        2  =     2
+                                  2          2         2              Y     1 πr 2     π
+                                                                            2
+              Pernyataan                                                                        Keterangan
+                                          2
+              Jari-jari memengaruhi limit: r saling menghapus                                   Salah ✗
+              Sudut tidak memengaruhi limit: hasil bergantung pada θ                            Salah ✗
+              X  selalu sama: berubah terhadap θ                                                Salah ✗
+              Y                        √
+                  X    2 cot  π   2(2 +  3)    2
+              lim    =      12  =           ̸=                                                  Salah ✗
+              θ→ Y        π           π        π
+                π
+                6
+              θ → π: cot  π  = 0, sehingga  X  → 0                                              Benar ✓
+                         2               Y
+              Keterangan: Dengan perhitungan geometri yang tepat, hanya pernyataan terakhir yang benar,
+              padahal soal menyatakan jawaban benar lebih dari satu. Nilai  2  pada pernyataan keempat baru
+                                                                           π
+                                                                                                 1
+                                                                                                      2
+              benar jika θ →  π  (karena cot  π  = 1). Kemungkinan pembuat soal memakai X = (2r) sin θ
+                              2             4                                                    2
+                                                                                  2
+              (kaki segitiga dianggap 2r), sehingga  X  =  4 sin θ  dan di θ =  π  bernilai ; namun model ini tidak
+                                                   Y     π              6         π
+              konsisten karena alas AB harus tetap 2r. Selain itu, saat θ = π segitiga menjadi degenerasi,
+              sehingga nilai 0 dipahami sebagai nilai limit.
+              ✔ Jawaban: Jika θ = π maka   X  = 0 (dan pernyataan lim θ→  π  X  =  2  hanya benar menurut model
+                                           Y                            6 Y    π
+              pembuat soal)
+              Ringkasan Kunci Jawaban
+
+
+               1   (A), (C)                                   14  (C) 9
+               2   (E)                                        15  BC, CD, DE
+               3   (E)                                        16  (A)
+               4   (C) 40 ml                                  17  (1, −5), (3, −1)
+                                                                               1
+               5   Terbesar Hotel C; total > Rp20 juta        18  1 hitam+biru, hitam+merah, biru+merah
+                                                                  2            2
+               6   (−2, 0), (3, 0)                            19  A: Tidak Pas, B: Tidak Pas, C: Pas
+               7   (C) −1                                     20  (E) 6
+               8   (D)                                        21  (C)
+               9   30: Tidak Mungkin; 40 & 60: Mungkin        22  (2, 0), (5, 2)
+              10   Salah, Benar, Salah                        23  (A) −  7
+                                                                       67
+              11   Danau C, D, E                              24  (B) Rp3.000.000,00
+              12   (E) 15 jam                                 25  (E)  3
+                                                                     2
+              13   (B) −4 atau 3                              26  θ = π ⇒  X  = 0 (lihat keterangan)
+                                                                           Y]]></page></pages></Search>
